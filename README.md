@@ -9,6 +9,11 @@ Os nomes inseridos serão exibidos em uma lista visível na página, e ao adicio
 
 Será sorteado um dos nomes na lista de forma aleatória e exibirá o resultado na tela.
 
+<h1>
+<a href="https://amigo-secreto-blush.vercel.app/">Entrar no JOGO</a>
+</h1>
+
+<h1>Entrar no jogo</h1>
 <h2>Funcionalidades:</h2>
 <ul>
   <li><b>Adicionar nomes:</b></li> Os usuários escreverão o nome de um amigo em um campo de texto e o adicionarão a uma lista visível ao clicar em "Adicionar".
