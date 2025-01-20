@@ -10,7 +10,7 @@ Os nomes inseridos serão exibidos em uma lista visível na página, e ao adicio
 Será sorteado um dos nomes na lista de forma aleatória e exibirá o resultado na tela.
 
 <h1>
-<a href="https://amigo-secreto-blush.vercel.app/">Entrar no JOGO</a>
+<a href="https://amigo-secreto-blush.vercel.app/" target="_blank">Entrar no JOGO</a>
 </h1>
 
 <h1>Entrar no jogo</h1>
