@@ -32,7 +32,5 @@ function sortearAmigo() {
     } else {
         let sorteadoIndice = Math.floor(Math.random() * amigos.length );
         resultado.innerHTML = amigos[ sorteadoIndice ];
-    }
-
-    
+    }    
 }
