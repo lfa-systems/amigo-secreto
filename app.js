@@ -8,7 +8,7 @@ function adicionarAmigo() {
     } else {
         amigos.push(amigo);
     }
-
+    limparCampo();
 }
 
 function limparCampo() {
