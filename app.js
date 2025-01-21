@@ -1,4 +1,6 @@
-//O principal objetivo deste desafio é fortalecer suas habilidades em lógica de programação. Aqui você deverá desenvolver a lógica para resolver o problema.
+//O principal objetivo deste desafio é fortalecer suas habilidades em lógica de programação.
+// Aqui você deverá desenvolver a lógica para resolver o problema.
+console.log('Versão do jogo 01.2025')
 let amigos = [];
 let listaAmigos = document.getElementById( 'listaAmigos' );
 let resultado = document.getElementById( 'resultado' );
@@ -30,7 +32,7 @@ function sortearAmigo() {
     if ( !amigos.length ){
         alert('Lista de amigos está vazio.')
     } else {
-        let sorteadoIndice = Math.floor(Math.random() * amigos.length );
+        let sorteadoIndice = Math.floor( Math.random() * amigos.length );
         resultado.innerHTML = amigos[ sorteadoIndice ];
     }    
 }
